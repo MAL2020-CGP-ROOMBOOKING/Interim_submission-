@@ -1,0 +1,25 @@
+room-booking-system/
+│
+├── index.html            # Landing page for the system
+├── login.html            # User/admin login page
+│
+├── css/
+│   ├── styles.css        # Shared CSS for the entire system
+│   
+├── users/
+│   ├── dashboard.html    # User dashboard page
+│   ├── booking.html      # User booking page
+│   ├── notifications.html # User notifications page
+│
+├── admin/
+│   ├── dashboard.html    # Admin dashboard page
+│   ├── manage_bookings.html # Manage bookings page / Download Booking Record
+│   ├── manage_users.html # Manage users page
+│   ├── manage_rooms.html # Manage rooms page
+│   ├── notifications.html # Admin notifications page
+|   |__ Logout.html        # Logout Page 
+│
+├── assets/
+│   ├── images/           # Folder for all image assets
+│   └── icons/            # Folder for SVG or icon assets
+│

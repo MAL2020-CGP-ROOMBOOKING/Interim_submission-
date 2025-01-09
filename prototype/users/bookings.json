@@ -1,0 +1,19 @@
+[
+    {
+      "id": 1,
+      "room": "Conference Room A",
+      "date": "2024-12-15",
+      "day": "Sunday",
+      "time": "9:00 AM - 11:00 AM",
+      "status": "Pending"
+    },
+    {
+      "id": 2,
+      "room": "Counseling Room B",
+      "date": "2024-11-01",
+      "day": "Monday",
+      "time": "1:00 PM - 3:00 PM",
+      "status": "Completed"
+    }
+  ]
+  

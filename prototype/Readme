@@ -1,0 +1,48 @@
+**User**
+Email : user@example.com
+Password : user123
+
+**Admin**
+Email : admin@example.com
+Password : admin123
+
+
+### **User Interface**
+- **Home Page**:
+  - A welcoming landing page with navigation links and an announcements section and simple information about the room.
+  - View Upcoming booing and booking history.
+- **Room Booking**:
+  - View room availability through an intuitive time-slot-based table.
+  - Select rooms and confirm bookings with a simple and responsive interface.
+- **Notifications**:
+  - Track booking statuses such as Pending, Approved, and Completed.
+- **Feedback**:
+  - Submit categorized feedback with optional file attachments and Image.
+  - Review feedback submission history.
+
+
+### **Admin Interface**
+- **Dashboard**:
+  - Displays an overview of bookings and system activity.
+- **Manage Bookings**:
+  - Approve, reject, or delete bookings.
+  - Filter bookings by date and status for better management.
+- **Manage Rooms**:
+  - Add, edit, disable, or delete rooms.
+  - Keep the room list updated for users.
+- **Manage Announcements**:
+  - Create, edit, and delete announcements shown to users.
+  - Keep users informed about updates, maintenance, and new features.
+- **Manage Feedback**:
+  - View, respond to, and mark user feedback as reviewed.
+  - Use feedback insights to improve user experience.
+  - **Notifications**:
+  - Track booking statuses such as Pending, Approved, and Completed.
+
+  ## **Technologies Used**
+- **Frontend**:
+  - HTML, CSS (with Bootstrap 5), JavaScript.
+- **Backend**:
+  - Not integrated in the prototype. Placeholder for potential backend systems.
+- **Tools**:
+  - Visual Studio Code, Chrome Developer Tools.
