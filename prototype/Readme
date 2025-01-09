@@ -27,6 +27,7 @@ Password : admin123
 - **Manage Bookings**:
   - Approve, reject, or delete bookings.
   - Filter bookings by date and status for better management.
+  - Download record and booking report
 - **Manage Rooms**:
   - Add, edit, disable, or delete rooms.
   - Keep the room list updated for users.
